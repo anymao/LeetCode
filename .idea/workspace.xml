@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151c5c33-c24f-46b3-b1df-30dc6d4713bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/anymore/leetcode/LeetCode112.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/anymore/leetcode/TreeNode.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anymore/leetcode/LeetCode464.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anymore/leetcode/LeetCode748.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anymore/leetcode/LeetCode807.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
       </list>
     </option>
   </component>
@@ -52,6 +53,26 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RunManager">
+    <configuration name="LeetCode748" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.anymore.leetcode.LeetCode748" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LeetCode748" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,6 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1639058817258</updated>
       <workItem from="1639058820884" duration="1678000" />
+      <workItem from="1639140966454" duration="3236000" />
+      <workItem from="1639407066671" duration="690000" />
     </task>
     <servers />
   </component>
@@ -70,9 +93,50 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1639059204472">
+    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1639407924687">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1639059204472" />
+    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1639407924687" />
+    <state width="1492" height="208" key="GridCell.Tab.0.bottom" timestamp="1639146398027">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1639146398027" />
+    <state width="1492" height="208" key="GridCell.Tab.0.center" timestamp="1639146398027">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1639146398027" />
+    <state width="1492" height="208" key="GridCell.Tab.0.left" timestamp="1639146398026">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1639146398026" />
+    <state width="1492" height="208" key="GridCell.Tab.0.right" timestamp="1639146398027">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1639146398027" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1639060973579">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1639060973579" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/anymore/leetcode/LeetCode748.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/anymore/leetcode/LeetCode748.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/anymore/leetcode/LeetCode748.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
